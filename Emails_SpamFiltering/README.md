@@ -1,1 +1,1 @@
-## **This is an simple implementation to detect Spam Email usign Naive Bayes**
+## **This is an simple implementation to detect Spam Email using Naive Bayes**
